@@ -2,10 +2,10 @@
 
 |选项|说明|
 |:--:|:--:|
-|Go|测试于[acWing](https://acwing.com)|
+|Go|测试于[AcWing](https://acwing.com)|
 |Java|测试于[牛课网](https://www.nowcoder.com/)|
 |:monkey_face:|表示已做|
-|:see_no_evil:|表示待做|
+|:see_no_evil:|表示待做或未经测试|
 
 
 
@@ -33,6 +33,7 @@
 | 20 | 举例让抽象具象化 | [包含min函数的栈](20.[举例让抽象具象化]包含min函数的栈.md) | :monkey_face: | :monkey_face: |
 | 21 | 举例让抽象具象化 | [栈的压入、弹出序列](21.[举例让抽象具象化]栈的压入、弹出序列.md) | :monkey_face: | :monkey_face: |
 | 22 | 举例让抽象具象化 | [从上往下打印二叉树](22.[举例让抽象具象化]从上往下打印二叉树.md) | :monkey_face: | :monkey_face: |
+| 22.1 | 举例让抽象具象化 | [分行从上往下打印二叉树](22.1.[举例让抽象具象化]分行从上往下打印二叉树.md) | :monkey_face: | :monkey_face: |
 | 23 | 举例让抽象具象化 | [二叉搜索树的后序遍历序列](23.[举例让抽象具象化]二叉搜索树的后序遍历序列.md) | :monkey_face: | :monkey_face: |
 | 24 | 举例让抽象具象化 | [二叉树中和为某一值的路径](24.[举例让抽象具象化]二叉树中和为某一值的路径.md) | :monkey_face: | :monkey_face: |
 | 25 |  |  |  |  |
@@ -77,4 +78,8 @@
 | 64 |  |  |  |  |
 | 65 |  |  |  |  |
 | 66 |  |  |  |  |
+
+**由于牛课网上提供的语言种类没有Go，所以Go语言提交测试均在AcWing上进行。牛课网与AcWing的部分题型的函数名称与参数名称格式有些许不同。**
+
+题解主要有参考 [AcWing@yxc](https://www.acwing.com/user/myspace/index/1/) [牛课网论坛](https://www.nowcoder.com/ta/coding-interviews)
 
